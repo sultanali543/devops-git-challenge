@@ -1,0 +1,1 @@
+echo "Deploying application to environment: staging-qa"
